@@ -25,7 +25,12 @@ GUI of the system:
 
 
 Test Cases for system:
+
+
+
 Equivalence class partitioning and boundary value analysis for algorithmic methods is in the tables below:
+
+
 <img width="463" alt="Ekran Resmi 2022-06-24 16 10 47" src="https://user-images.githubusercontent.com/79667938/175542887-cf53e54b-bac8-4498-9987-9c04f07e9e63.png">
 
 <img width="463" alt="Ekran Resmi 2022-06-24 16 11 04" src="https://user-images.githubusercontent.com/79667938/175542906-a5487dcb-9261-47ad-90a9-8ac68148ee14.png">
