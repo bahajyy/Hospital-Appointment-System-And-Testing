@@ -22,3 +22,18 @@ GUI of the system:
 <img width="365" alt="2" src="https://user-images.githubusercontent.com/79667938/175542418-1a40ec45-ea25-48b9-80bf-80b15c412d51.png">
 <img width="365" alt="3" src="https://user-images.githubusercontent.com/79667938/175542426-1b3d36d6-0456-4db8-a9ac-a0fc9722e055.png">
 <img width="358" alt="4" src="https://user-images.githubusercontent.com/79667938/175542435-ca8f2d85-7a66-43e8-853d-46977825bd95.png">
+
+
+Test Cases for system:
+Equivalence class partitioning and boundary value analysis for algorithmic methods is in the tables below:
+<img width="463" alt="Ekran Resmi 2022-06-24 16 10 47" src="https://user-images.githubusercontent.com/79667938/175542887-cf53e54b-bac8-4498-9987-9c04f07e9e63.png">
+
+<img width="463" alt="Ekran Resmi 2022-06-24 16 11 04" src="https://user-images.githubusercontent.com/79667938/175542906-a5487dcb-9261-47ad-90a9-8ac68148ee14.png">
+
+
+
+
+
+
+
+
