@@ -1,6 +1,5 @@
 # Hospital-Appointment-System-And-Testing
 
-
 We design a hospital system for this project.In this system you can;
 -Register to the hospital system.
 -Login as a doctor/or patient.
