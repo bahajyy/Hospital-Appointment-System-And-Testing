@@ -1,6 +1,0 @@
-Patient_1, kerem, 24/04/2002
-Patient_2, hasan, 18/02/2005
-Patient_3, ferit, 5/01/1999
-Patient_4, baha, 2/08/2001
-Patient_5, pw, 4/04/2006
-HulyaIrmak, 12345, 5/05/1982
