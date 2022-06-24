@@ -12,3 +12,13 @@ We design a hospital system for this project.In this system you can;
 -If your appointment is today and after today passes your appointment will be automatically deleted.
 -If you write your birthday older than 1904 your registration will not be accepted.
 -If you switch the department when you are making an appointment doctor names will be change according to departments.
+
+
+
+
+GUI of the system:
+
+<img width="362" alt="1" src="https://user-images.githubusercontent.com/79667938/175542399-a356077d-de57-400f-a0a5-c24e0d9e06e0.png">
+<img width="365" alt="2" src="https://user-images.githubusercontent.com/79667938/175542418-1a40ec45-ea25-48b9-80bf-80b15c412d51.png">
+<img width="365" alt="3" src="https://user-images.githubusercontent.com/79667938/175542426-1b3d36d6-0456-4db8-a9ac-a0fc9722e055.png">
+<img width="358" alt="4" src="https://user-images.githubusercontent.com/79667938/175542435-ca8f2d85-7a66-43e8-853d-46977825bd95.png">
